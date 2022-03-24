@@ -1,7 +1,7 @@
 ### Thankyou for visit 👋
-## 🎓 부산가톨릭대학교 경영정보학과
-## ✏ UI/UX기반 프론트엔드 개발자 양성 과정 수료
-## ✏ 자바기반 백엔드개발자 양성 과정 수료
+#### 🎓 부산가톨릭대학교 경영정보학과
+#### ✏ UI/UX기반 프론트엔드 개발자 양성 과정 수료
+#### ✏ 자바기반 백엔드개발자 양성 과정 수료
 
 <!--
 **eing98/eing98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
