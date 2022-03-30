@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 #### ✏ UI/UX기반 프론트엔드 개발자 양성 과정 수료
 #### ✏ 자바기반 백엔드개발자 양성 과정 수료
 
-<img src="https://img.shields.io/badge/Java-#007396?style=flat&logo=Java&logoColor=#007396"/>
-<img src="https://img.shields.io/badge/Spring-3766AB?style=flat&logo=Spring&logoColor=#000"/>
-<img src="https://img.shields.io/badge/MySQL-3766AB?style=flat&logo=MySQL&logoColor=#4479A1"/>
-<img src="https://img.shields.io/badge/Oracle-3766AB?style=flat&logo=Oracle&logoColor=#F80000"/>
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat&logo=Java&logoColor=#007396"/><img src="https://img.shields.io/badge/Spring-3766AB?style=flat&logo=Spring&logoColor=#000"/><img src="https://img.shields.io/badge/MySQL-3766AB?style=flat&logo=MySQL&logoColor=#4479A1"/><img src="https://img.shields.io/badge/Oracle-3766AB?style=flat&logo=Oracle&logoColor=#F80000"/>
 
 
 
