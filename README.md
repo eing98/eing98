@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 #### ✏ UI/UX기반 프론트엔드 개발자 양성 과정 수료
 #### ✏ 자바기반 백엔드개발자 양성 과정 수료
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>
 
 
