@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header align="center"](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soyeung%20Yun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soyeung%20Yun&fontSize=90)&align="center"
 
 
 #### ✏ UI/UX기반 프론트엔드 개발자 양성 과정 수료
