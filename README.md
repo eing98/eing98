@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-3766AB?style=flat&logo=Spring&logoColor=#000000"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-3766AB?style=flat&logo=MySQL&logoColor=#4479A1"/></a> &nbsp
 <img src="https://img.shields.io/badge/Oracle-3766AB?style=flat&logo=Oracle&logoColor=#F80000"/></a> &nbsp
-
-
-
+</br>
 <img src="https://img.shields.io/badge/HTML5-3766AB?style=flat&logo=HTML5&logoColor=#E34F26"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-3766AB?style=flat&logo=CSS3&logoColor=#1572B6"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat&logo=JavaScript&logoColor=#F7DF1E"/></a> &nbsp
