@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-086E7D?style=flat&logo=JavaScript&logoColor=#F7DF1E"/></a> &nbsp
 <img src="https://img.shields.io/badge/jQuery-9B0000?style=flat&logo=jQuery&logoColor=#0769AD"/></a> &nbsp
 </br>
-<img src="https://img.shields.io/badge/Java-5902EC?style=flat&logo=Java&logoColor=#007396"/></a> &nbsp
+<img src="https://img.shields.io/badge/Java-297F87?style=flat&logo=Java&logoColor=#007396"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring-FBF46D?style=flat&logo=Spring&logoColor=#000000"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-142F43?style=flat&logo=MySQL&logoColor=#4479A1"/></a> &nbsp
 <img src="https://img.shields.io/badge/Oracle-495371?style=flat&logo=Oracle&logoColor=#F80000"/></a> &nbsp
