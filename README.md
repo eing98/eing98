@@ -2,6 +2,9 @@
 #### ✏ UI/UX기반 프론트엔드 개발자 양성 과정 수료
 #### ✏ 자바기반 백엔드개발자 양성 과정 수료
 
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 <!--
 **eing98/eing98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
