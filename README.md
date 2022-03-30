@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-F3F1F5?style=flat&logo=HTML5&logoColor=#E34F26"/></a> &nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-325288?style=flat&logo=CSS3&logoColor=#1572B6"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-086E7D?style=flat&logo=JavaScript&logoColor=#F7DF1E"/></a> &nbsp
 <img src="https://img.shields.io/badge/jQuery-FFAA4C?style=flat&logo=jQuery&logoColor=#0769AD"/></a> &nbsp
