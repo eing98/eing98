@@ -1,6 +1,4 @@
-### Thankyou for visit 👋
-#### ✏ UI/UX기반 프론트엔드 개발자 양성 과정 수료
-#### ✏ 자바기반 백엔드개발자 양성 과정 수료
+
 
 <!--
 **eing98/eing98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soyeung%20Yun&fontSize=90)
+
+
+#### ✏ UI/UX기반 프론트엔드 개발자 양성 과정 수료
+#### ✏ 자바기반 백엔드개발자 양성 과정 수료
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
