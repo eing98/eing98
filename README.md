@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-6BCB77?style=flat&logo=Java&logoColor=#007396"/></a> &nbsp
-<img src="https://img.shields.io/badge/Spring-FFD93D?style=flat&logo=Spring&logoColor=#000000"/></a> &nbsp
-<img src="https://img.shields.io/badge/MySQL-E83A14?style=flat&logo=MySQL&logoColor=#4479A1"/></a> &nbsp
-<img src="https://img.shields.io/badge/Oracle-9ADCFF?style=flat&logo=Oracle&logoColor=#F80000"/></a> &nbsp
+<img src="https://img.shields.io/badge/Java-5902EC?style=flat&logo=Java&logoColor=#007396"/></a> &nbsp
+<img src="https://img.shields.io/badge/Spring-EEEDDE?style=flat&logo=Spring&logoColor=#000000"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-FFD93D?style=flat&logo=MySQL&logoColor=#4479A1"/></a> &nbsp
+<img src="https://img.shields.io/badge/Oracle-495371?style=flat&logo=Oracle&logoColor=#F80000"/></a> &nbsp
 </br>
-<img src="https://img.shields.io/badge/HTML5-3766AB?style=flat&logo=HTML5&logoColor=#E34F26"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-3766AB?style=flat&logo=CSS3&logoColor=#1572B6"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat&logo=JavaScript&logoColor=#F7DF1E"/></a> &nbsp
-<img src="https://img.shields.io/badge/jQuery-3766AB?style=flat&logo=jQuery&logoColor=#0769AD"/></a> &nbsp</p>
+<img src="https://img.shields.io/badge/HTML5-FFEDDB?style=flat&logo=HTML5&logoColor=#E34F26"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-325288?style=flat&logo=CSS3&logoColor=#1572B6"/></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-086E7D?style=flat&logo=JavaScript&logoColor=#F7DF1E"/></a> &nbsp
+<img src="https://img.shields.io/badge/jQuery-9B0000?style=flat&logo=jQuery&logoColor=#0769AD"/></a> &nbsp</p>
 
 
