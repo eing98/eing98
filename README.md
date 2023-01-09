@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Soyeung%20Yun&fontSize=90)
 
 
-#### ✏ UI/UX기반 프론트엔드 개발자 양성 과정 수료
-#### ✏ 자바기반 백엔드개발자 양성 과정 수료
+#### ✏ 
 </br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
